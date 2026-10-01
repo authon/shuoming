@@ -11,4 +11,4 @@
 #
 #
 - banner作用，看下图
-- <img src="https://github.com/authon/shuoming/blob/master/doc/banner.png" />
+- <img src="https://github.com/authon/Mine-shuoming/blob/master/doc/banner.png" />

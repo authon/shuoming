@@ -16,7 +16,7 @@
 
 - [如果芯片型号对应机型看不明白，可以在这个文件的选择机型里面查看，all为表示打包全部机型，其他的有什么，请详细查看，好几个机型写在一起的，请注意是用下划线区分的](https://github.com/authon/autobuild/blob/main/.github/workflows/packaging.yml))
 
-- [手动打包，或者多次打包固件说明](https://github.com/authon/shuoming/blob/master/sddb.md)
+- [手动打包，或者多次打包固件说明](https://github.com/authon/Mine-shuoming/blob/master/sddb.md)
 #
 
 
