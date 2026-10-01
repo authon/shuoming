@@ -1,13 +1,13 @@
 # SSH连接说明：
 - cd openwrt && make menuconfig
 #
-- SSH连接说明：复制代码-->粘贴到putty开始连接-->等待跑码完成-->按Ctrl+c-->输入cd openwrt && make menuconfig然后回车-->等待跑码完成进入配置画面-->配置完成后-->一路Exit退出配置界面-->Ctrl+d结束SSH连接
+- SSH连接说明：复制日志里的在线SSH地址（形如 https://sshx.io/s/xxxx#xxxx ，# 后面那一串是密钥，必须整条一起复制）-->在浏览器里打开就是终端，不用装putty、不用装任何客户端-->输入cd openwrt && make menuconfig然后回车-->等待跑码完成进入配置画面-->配置完成后-->一路Exit退出配置界面-->Ctrl+d结束SSH连接
 #
 - 已经连接了SSH后选择完插件，一路退出到yes or no那里按yes保存配置，然后必定要正确按键盘Ctrl+d结束SSH连接才会继续编译
 #
 - 打开了SSH连接功能，又没连接的话，30分钟后会跳过SSH继续运行编译的下一步
 #
-- [SSH工具下载](https://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.74.html)
+- 在线SSH已经是网页终端，不需要安装putty；如果要用putty连接路由器或别的系统，可以在这里下载：[SSH工具下载](https://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.74.html)
 #
 !<img src="https://github.com/authon/Mine-shuoming/blob/master/doc/ssh01.png" width="650" height="418" />
 !<img src="https://github.com/authon/Mine-shuoming/blob/master/doc/ssh02.png" width="650" height="418" />

@@ -1,9 +1,9 @@
 - 启动编译和SSH连接配置固件教程(必须设置好了密匙后才来启动)
 - 私库没法用触发编译，私库也不能使用同步仓库程序，也不能使用在线更新固件功能
-- 2023年2月多开始，SSH的网页版没办法用了，用工具连接还是没问题
+- 现在在线SSH用的是网页终端（sshx），浏览器打开日志里给出的链接就是终端，不需要安装putty等任何工具
 
 - ## 在这里您可能需要用到以下教程
-- 《[用putty工具连接SSH，图文教程](https://github.com/authon/Mine-shuoming/blob/master/3SSH%E8%BF%9E%E6%8E%A5%E8%AF%B4%E6%98%8E.md)》
+- 《[在线SSH（浏览器终端）图文教程](https://github.com/authon/Mine-shuoming/blob/master/3SSH%E8%BF%9E%E6%8E%A5%E8%AF%B4%E6%98%8E.md)》
 - 《[插件中文名称对照](https://github.com/authon/Mine-shuoming/blob/master/%E5%90%8D%E7%A7%B0.md)》
 - 在脚本的《简单介绍新脚本》里面有说明怎么增加可选择配置文件的教程
 
